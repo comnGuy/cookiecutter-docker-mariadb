@@ -1,0 +1,7 @@
+{
+    "container_name": "x-db",
+    "port": 3307,
+    "user_db": "user",
+    "database_name_db": "user",
+    "password_db": "password"
+}
